@@ -1,0 +1,2 @@
+# QQChatProject
+该项目是一个类似于QQ交流软件，分为client端和server端，目前只在后台的consel端实现一对多的通信交流，注册的账户存放到redis上。
